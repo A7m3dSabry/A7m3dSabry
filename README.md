@@ -70,6 +70,7 @@ I'm always open for new opportunities so don't hesitate to call me.
   <img src="https://images.credly.com/size/340x340/images/d69f8739-09ae-4534-a72a-84f6027d6406/image.png" height=150/>
   <img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" height=150/>
   <img src="https://images.credly.com/size/340x340/images/0590787c-66c7-46be-be18-bbfcf16c795b/image.png" height=150/>
+  <img src="https://images.credly.com/size/340x340/images/4f514a93-8f7a-424c-aeca-2e8f79612bc5/image.png" height=150/>
 
 
 ## 📫 How to reach me
