@@ -65,7 +65,7 @@ I'm always open for new opportunities so don't hesitate to call me.
 
 
 ## 🏅 Badges
-<!-- Replace the URLs with the links to your badges -->
+  ![See All](https://www.credly.com/users/ahmed.sabry)
   <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" height=150/>   <img src="https://images.credly.com/size/340x340/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" height=150/>
   <img src="https://images.credly.com/size/340x340/images/d69f8739-09ae-4534-a72a-84f6027d6406/image.png" height=150/>
   <img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" height=150/>
@@ -73,8 +73,5 @@ I'm always open for new opportunities so don't hesitate to call me.
 
 
 ## 📫 How to reach me
-Feel free to connect with me on [LinkedIn](your-linkedin-profile-url) or check out my projects below!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ahmed-sabry-sl).
 
----
-
-Looking forward to collaborating and learning together!
